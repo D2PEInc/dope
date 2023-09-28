@@ -1,0 +1,1205 @@
+#EXTM3U
+
+#EXTINF:-1,Demi Negaraku
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9cfcff10e7bf34c5e65a8619c034dc10&key=311a12c7353cfb13923efe9e340ce724
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5120/default.mpd
+
+#EXTINF:-1,TV1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=912760c409eb5aff3e060422c502f410&key=bea2d0f89fb3fbafa1fc9f34ba8734a6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default.mpd
+
+#EXTINF:-1,TV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f885481fe053e544096532c1dcb9710&key=24a9b17859862887f28f63c7c29bcaa5
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+
+#EXTINF:-1,TV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1b0fbb1dd49fc6b1c06a0d89f0328f10&key=d918e9f2d642767a328da118bd8fff68
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
+
+#EXTINF:-1,RIA HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default.mpd
+
+#EXTINF:-1,PRIMA HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b65326aede3edbe81e6fb40317d5310&key=8412f444ffbe350cf2ece051f9152e90
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default.mpd
+
+#EXTINF:-1,OASIS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=17d5d62dc61954b82ee016da264abd10&key=5f35f815699140e2649d825f0d24028e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+#EXTINF:-1,WARNA HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aa2c653f0c05567ae283c4a3271a9810&key=0a80e20c568e88e53c7087c1c6493318
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default.mpd
+
+#EXTINF:-1,CITRA HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=84bf9ad6848be7db20f9d16823deef10&key=654f2d25a5bfb27c9e5ae0852584a166
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default.mpd
+
+#EXTINF:-1,GO SHOP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1dd0cffaed4b9fca7d4e28fa4295a610&key=23f37b8090715ade5e1fdb0c84967d4f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2508/default.mpd
+
+#EXTINF:-1,RANIA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=784c6037e5888e84106e41059fe2b110&key=8e4200bf5c4d523ff00bfd173d021602
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
+
+#EXTINF:-1,AURA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=869c3237d2fae78301a91dbb5a924d10&key=f5c2312185f9f0c4894b73ce17419d8c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default.mp
+
+#EXTINF:-1,TV ALHIJRAH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41a42fb5af457501c11bb9b158d5a110&key=57a8d6f9e3832887db18ea6071118736
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+
+#EXTINF:-1,COLORS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad3cb242cde3b687e2398cd21eb9bd10&key=6ed9b4976a854a289ce62cac957a55d5
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default.mpd
+
+#EXTINF:-1,GO SHOP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61f3a0db50e60f5ff867c22b6e0b7910&key=77fa7adfb1d29b0d9b9211365419ddf3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2501/default.mpd
+
+#EXTINF:-1,TVS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c3e956b38ae993be1494c7cfa17b1110&key=55ccaee886b340dd901f4bf8dd9d3a6a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
+#EXTINF:-1,Awesome TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f84fbe826d15755ef91ebcab67c57d10&key=6a136b65d2d45699cb1e98506dfa1bee
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1,TVB Magic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a10d0610e700b4b20dd1c91a2fc310&key=eb5b2cec485514216f7c25d102ab8a13
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5107/default.mpd
+
+#EXTINF:-1,TV OKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60f202b16407fedd8e369c32af57dd10&key=c8475231c09dc1b639886976b6fc7575
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default.mpd
+
+#EXTINF:-1,NTV7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=db3954e8fb100e06e19c66639cb4c110&key=e624a8c6ccf9b2dd533992574928d801
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
+
+#EXTINF:-1,8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5976b9eba78f7921f19169bb9f612110&key=10f086eb4d9548925e1caf2374ae9236
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/default.mpd
+
+#EXTINF:-1,TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7836ea26a6954661124ee9536a9eb710&key=e51bbff4595c2736122548c165bfce31
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/default.mpd
+
+#EXTINF:-1,VAANAVIL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=72499c6ad44cc37d95a9075420911110&key=b5416326114a13e90662a4fbaf3c532b
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
+
+#EXTINF:-1,VINMEEN HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c7737edd1d67824fa70df73154bf8110&key=68c5db3b309fab5503a6fdb580ddf281
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2105/default.mpd
+
+#EXTINF:-1,Vellithirai HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c44af8b594b6157f55d3c31bd679c10&key=c128bbe41e94d15a7f8cc2f6253a54b2
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+
+#EXTINF:-1,SUN TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=83076ff2f68d1764b559c432ab49ca10&key=ebdf56ba4a3562cc82053a2952975432
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default.mpd
+
+#EXTINF:-1,SUN MUSIC HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=beaca9461f7ca0d58ba529fed2e7b610&key=da0a70148e126eb40cce02665753896d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+
+#EXTINF:-1,ADITHYA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=859f5b2054c4073e8f0da463d208b910&key=5eb3762b1a4631a0b98e25e23cef0193
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+
+#EXTINF:-1,Sun News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0a171cc1bb90f78820cf25cc55f0ee10&key=ac08792047218ca2a01f2bbd12d90501
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5087/default.mpd
+
+#EXTINF:-1,KTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8e7863a8e770b0d72ebe4a68437b6410&key=73648ceba3751645926d45421c85d927
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5088/default.mpd
+
+#EXTINF:-1,Sun Life
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3e1be94e6c193fa21787ce8435db610&key=726304708c429f613ec2dc53619d6f76
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5089/default.mpd
+
+#EXTINF:-1,STAR VIJAY HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af35608a7d4b13d1158c2ef6d6c1a010&key=d01c81050dfab309c6be7e60d03c2d82
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default.mpd
+
+#EXTINF:-1,COLORS TAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e46354fb39c28e5956bc946ac2a05010&key=511905bf191474b412b4ec117515a79c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default.mpd
+
+#EXTINF:-1,ZEE TAMIL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d4e3e7dac2d58b93bf819a72fe8d510&key=667a33f4d5bb3587f2d5209886839eac
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default.mpd
+
+#EXTINF:-1,THANGATHIRAI HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=918adebe10a9848d567dc6cb5adce510&key=084e76561bba9d4f3ae953acdd37b3ed
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2109/default.mpd
+
+#EXTINF:-1,Zee Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=db96483900762e233aa7830457a0d310&key=20f392e5a1021be68fc32bcdb9ec3ad4
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
+#EXTINF:-1,iQIYI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ef7e913ce85a1131b27036069169a10&key=77d98ed71db7524c27875a09a975f9e6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default.mpd
+
+#EXTINF:-1,GO SHOP 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d1150592f8279292bd668976cf61310&key=ef421541e66dcb856ec3c12dac42c859
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1005/default.mpd
+
+#EXTINF:-1,TVB CLASSIC HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=071448690a0ec9b27eb2c1a7d5e03010&key=933ae273b166baa8fb203eef1a7adbdf
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default.mpd
+
+#EXTINF:-1,AEC HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=06282157da4e8f97623a70ed017fad10&key=8da72ca8501a4deb4bfc381fe1737ef4
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2400/default.mpd
+
+#EXTINF:-1,QJ HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89de71cf39be0946dec828edff84d010&key=9d5e036094bb77cbaf8867d3272c66d0
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2507/default.mpd
+
+#EXTINF:-1,CELESTIAL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5c1ba26907291afec11a9a78d513410&key=361197805d0149c29801946cf2dde67c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default.mpd
+
+#EXTINF:-1,TVBJ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fe1219019a9f36cdef347088e592ca10&key=cb9e1a122ed1c6445f7d3fd2162358f1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
+
+#EXTINF:-1,AOD HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=286aef4e8d85db66e05fe4a5c799e410&key=176e2938bce795d1c85559a2440477f7
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default.mpd
+
+#EXTINF:-1,CTI ASIA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d626598c2ab452537509dcb8a86db910&key=f5a9cadea2372a52c2b91f9c261fe0a4
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5017/default.mpd
+
+#EXTINF:-1,TVB E-NEWS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fa629c3640ce533c755509f67f75e610&key=af710a06fd67975b99db4a47a757b84b
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5015/default.mp
+
+#EXTINF:-1,TVB XING HE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e36e0cbdef0677b48dba5c63e8caaf10&key=ecfb454b2f3e238c5b5dc196e4f91fb8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
+
+#EXTINF:-1,TVBS ASIA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e76a89a1e23f8f7b828f4dbdc2d09a10&key=346f0f60cbd7591e1ae72ca589157bb1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/402/default.mpd
+
+#EXTINF:-1,CCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a642dd4bf3ea782e19202adefb604b10&key=3f59355e15eed1bb219ea1687d55cfbb
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default.mpd
+
+#EXTINF:-1,PHOENIX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=517c308ef6419b1767e9ae710c897710&key=fd6be1cea9fa23c98f20f1b2abcae276
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default.mpd
+
+#EXTINF:-1,PHOENIX NEWS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9729558a9bff8d94774bfa2f019a1310&key=8b9eb7ab7196a425d9ab618a5c9f99d9
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default.mpd
+
+#EXTINF:-1,HUA HEE DAI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60507ef0dc9c813d5f8c7b2229412f10&key=c8a0f7e69bb31dfd475da26fc6c6003b
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2308/default.mpd
+
+#EXTINF:-1,CCTV4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=db1a338f71d40186f5997cb085bb3f10&key=8425690c4844fbb01b5eae706bc2f7c6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default.mpd
+
+#EXTINF:-1,AOD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0c1f00f14777b3daf4a912c4310f110&key=e1db5e07a2bfe0fbf94ce56b5e139f48
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default.mpd
+
+#EXTINF:-1,AOD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=691916164be2b1ae6c852f1990d1fe10&key=38a68c749898114cf0629d77e246a888
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default.mpd
+
+#EXTINF:-1,KBSW HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=692950d39869c92af9a9ddea453c0d10&key=eadc626ab959255f7ab881c03d306fe2
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default.mpd
+
+#EXTINF:-1,ONE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8fe398c79065173fa9788f226056510&key=45e77e6a8ba767b63cacfdb01ef2ac29
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default.mpd
+
+#EXTINF:-1,tvN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=faf4d62bb898de503446c28fb1aa9210&key=19e80ecc5d337215c64004cb49c9cb01
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default.mpd
+
+#EXTINF:-1,KPLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aa48b28bd723f91214887df6ed9fad10&key=b5a3a800848120c843ae0fa68c09c261
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+
+#EXTINF:-1,NHK HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=98817b144bcf19fd0ddca7fe54cee110&key=44b423a77dd34ace162db35cbb0fb6a3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default.mpd
+
+#EXTINF:-1,Ultraman
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=75d73aa8a1c02adf57ddeb4102d79410&key=7b584b6aa869fa2d2f639fbcf60fdff5
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5121/default.mpd
+
+#EXTINF:-1,HITS MOVIES HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff1febd7018d0dd711601e795e0d6210&key=38fbfb3a56e40ff92c9df8acbcba9ef6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default.mpd
+
+#EXTINF:-1,BOO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ea4d51ade01bbf3946e0de973051ba10&key=f3266bec607f25879f48640f30f1c888
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+
+#EXTINF:-1,HBO HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a098896d2b11c5f3906a993c3ba5c610&key=f3f842c54cc96cbbd0bcb96a4cb8a813
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+
+#EXTINF:-1,CINEMAX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=efdb2a8d39151cc39f4b51d762cf9c10&key=13cc535ad4a73201147863cac386cdd3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#EXTINF:-1,SHOWCASE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b8090c8361cc5cc5c1aac0ec2710de10&key=ca0d18538845bae2cb4f4a168036f174
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#EXTINF:-1,HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b9ff7cc1a3dc9fef47cc5773472d510&key=7e37588e893ab9252e505bd6dda35beb
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#EXTINF:-1,HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d600eb70944d681c26c1f48fbe61f10&key=796139ba05a2ab425f978c7fd98b4372
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#EXTINF:-1,tvN Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8e269c8aa32ad77eb83068312343d610&key=d12ccebafbba2a535d88a3087f884252
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+
+#EXTINF:-1,AWANI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6f06f3b3cf7cbad0cc8b21e2c94dfb10&key=525510cfa634bd630af8c95fa93576ca
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
+
+#EXTINF:-1,BERNAMA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1406bbf218ca14f967034fcf4abf7710&key=39a27aa2cc84a29b665fcc4dbf9c54b6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+
+#EXTINF:-1,CGTN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fc66ef0ee35b5ba639dc0e13c5f8a910&key=9e706161f02fb99cb692d2965470494e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
+
+#EXTINF:-1,CNN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1b618a291cece44c9845dddfc4fd9b10&key=bf7e1b97555c4acb7455f711b2a9ff16
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default.mpd
+
+#EXTINF:-1,BBC News HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=01767d1c2315c0e9556f477fb1f0c710&key=77ec0eeb21c07812fd7c58628366ccb3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
+
+#EXTINF:-1,AL JAZEERA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b1fbd0874e7923f5b05929a042aa0610&key=6c3c498113abffdf454dc935319a794d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
+
+#EXTINF:-1,SKY NEWS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4bef7fc1bcb6bd7f287def940e38cb10&key=b0dadd74b713e4b29fd27e147cae7133
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default.mpd
+
+#EXTINF:-1,CNA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4bef7fc1bcb6bd7f287def940e38cb10&key=b0dadd74b713e4b29fd27e147cae7133
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
+
+#EXTINF:-1,CNBC HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c3a38f1340531759a1ca97bc5d80c810&key=602827a870d49862d1a23f2912957b4c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default.mpd
+
+#EXTINF:-1,BLOOMBERG  TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=db1343545ae25ddecf8dfa4422f35410&key=79a044b30d64f5c37e6d45d503cbb280
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
+
+#EXTINF:-1,ABC AUSTRALIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a9fcc2f94258cee0f2108687c42e710&key=99bd7c1ff2391244b4e40e08bef1109d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default.mpd
+
+#EXTINF:-1,DW HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7edf3bd590cf337f721a2e5bec361510&key=13bb829ce4836ccf74071c45993978c5
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
+
+#EXTINF:-1,FRANCE24 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b0c1cebd0c4518d600f52c354ed1910&key=76d409ffc4eaa012c61d8c31bd13df5d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
+
+#EXTINF:-1,Love Nature 4K
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1afdcaf4198bfd3200584469fc3e5110&key=6edc92c49be84ca7a2f327beafbccae6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5097/default.mpd
+
+#EXTINF:-1,Love Nature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=168bd815468639fe4528b4bf0141f310&key=775a654c0610811ad022329a68884de1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+
+#EXTINF:-1,Global Trekker
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=92d34a84fae8e54de0a829629941be10&key=2fb39ab3f55333d5fa3e830ebf99ec16
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+
+#EXTINF:-1,DISCOVERY HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=276767a578aae2eacb284247ccd9eb10&key=03ef88df1a47669e5459e105e3b535b1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+
+#EXTINF:-1,DISCOVERY ASIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3ff02fcd80c2e3230c52ae70fe903410&key=c3a58ec867cc25829e1fbe8938442553
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
+
+#EXTINF:-1,BBC Earth
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbf62ff0804bc5b8d523ef009d786310&key=bb1bdb27cc5fe1ec637d257999344cc3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default.mpd
+
+#EXTINF:-1,HISTORY HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3feecc36930732cbb69306dc687c6f10&key=3458265f7530bf1fef204ca8cb4689db
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
+
+#EXTINF:-1,ANIMAL PLANET HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5199f1513a0286e038dae8f7d820010&key=4d4d4d9dc41be43f528a4940cf66f14c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
+
+#EXTINF:-1,TUTOR TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8829b8f4d91d2630f398c67ed94c2310&key=aed9dc02038725aadbd0c7bd1709240b
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
+
+#EXTINF:-1,CERIA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b6e60ca0d28e8f97395f07b4e2e53a10&key=0f0ea6c3543c29d7f513eb886eb74f88
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
+#EXTINF:-1,DreamWorks
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5bfe3554df2abcd37afe130a7e1d310&key=dccbdf043ac43d18be0b3eb43a582876
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+
+#EXTINF:-1,CARTOON NTWK HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1a05bebf706408431a390c3f9f40f410&key=89c5ff9f8e65c7fe966afbd2f9128e5f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default.mpd
+
+#EXTINF:-1,NICKELODEON HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8520e96a1283ab6e5be538474bfa810&key=bda5f7bbc1e44096f779a0619fe9881f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+
+#EXTINF:-1,NICK JR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fa65220c9f76e424173899df533a6d10&key=b4abbee95b69b3e80a0d141272c870db
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+
+#EXTINF:-1,Moonbug Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3cb7499710786eb105fab7b52459910&key=8ab093adabdc343b8734b7ecf0aea11a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+
+#EXTINF:-1,CBeebies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50c699c444e5f80dacafc4c99667d810&key=de6c5feaae5f6963b4b392ddc8b6a778
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default.mpd
+
+#EXTINF:-1,AXN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c24a7811d9ab46b48b746a0e7e269210&key=c321afe1689b07d5b7e55bd025c483ce
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+#EXTINF:-1,Lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8de11e005db5bd0db8228814863cd310&key=183b3eafa4c82e68f74c4244d54906b0
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+
+#EXTINF:-1,HITS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1fe92685a75844dc54c9dac124802510&key=36cb2063bf5338d18d31657371b15817
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
+
+#EXTINF:-1,TLC HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=942ec156203b2aca1ddf3498f663c110&key=7f5e6c69698ddefcb74553431b2b1c98
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
+
+#EXTINF:-1,FOOD NTWK HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2d13c814df4a0c2ce488b2eda052d710&key=2dc2a7617bde2ab00136ee689c56d789
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
+
+#EXTINF:-1,AFN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=346b9f41e2933748c8861f82932e0110&key=cf0cffb637b81598a27bd6b0d90d65a8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
+
+#EXTINF:-1,WARNER TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6093e12639b24cd651ee6b3c13446d10&key=f8326f668c7bee309e5302b513e5bdf7
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+
+#EXTINF:-1,Paramount
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fff5927a2249f094fa3773c390294010&key=a5a770d88e4403772f36e2313e8e32d0
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default.mpd
+
+#EXTINF:-1,CI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=22fc5baf47ae3b6322bc244206bbb210&key=db1ee2b8994b91aac65049ef3e493787
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default.mpd
+
+#EXTINF:-1,HGTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8c1bb309955eee32882390abebe19810&key=2a695b046e7cf5811a634d1348441195
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default.mpd
+
+#EXTINF:-1,DMAX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e21da304a29298ceca1fdfd1e71e210&key=87de38cf3ed2bbcd5d89b63e571bfe21
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
+
+#EXTINF:-1,BBC Lifestyle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f429292dc744f284355308561577ac10&key=b12e1f894129c517dc8845baaeebec8a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
+
+#EXTINF:-1,MTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3ac2542a4f7be746633db07647451710&key=22f964a6d6927ccdba482e775cdff190
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+
+#EXTINF:-1,ARENA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=efda647dad723563b625be8c05ee6110&key=6776985938b332164b97b81fe566a34a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#EXTINF:-1,ARENA 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ead0335d60401225727a6d531e9c2710&key=1ee3b252227c5c2ec9378c833d2e14ff
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
+#EXTINF:-1,ARENA BOLA TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=499a8f368064b11cc092b7b013db0710&key=e151bb81468a8426d6ab12860d314aa3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5099/default.mpd
+
+#EXTINF:-1,ARENA BOLA 2 TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62a7b7917aad5123cd4df65c561c7010&key=b1effa9e51cf38b3ae676bc264937efb
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5100/default.mpd
+
+#EXTINF:-1,ASTRO UHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=22fbef1c1cd725e9397ec16455f08210&key=7aea43cd93c24aa9834ecb4984f7fd5a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+#EXTINF:-1,beIN Sports Rugby
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b722d956bfc6a4508cd91de689c9b810&key=7237ff08b36e13aea3d35f4f2572fa39
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
+
+#EXTINF:-1,SPOTV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5efd26da5001363b4d6fa4a9c812ad10&key=ed6d67d953d14b026b2602cf8846577e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+#EXTINF:-1,ASSP HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f749ab71f227999bfb098f73359aac10&key=4f15413f7e4767b50c48e19b7f9a2fcc
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/601/default.mpd
+
+#EXTINF:-1,ASSP2 HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c1dc92f0789f112503c0db3bde2f1210&key=ddfa6e8d549b4d5177a9cade7f9a0b23
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2104/default.mpd
+
+#EXTINF:-1,ASSP3 HD TOKEN LINK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5be66a6f88efee3d6e30f72a9c58e310&key=168f3fadfc730ba3dfc932f7c430e27d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2701/default.mpd
+
+#EXTINF:-1,ASSP4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=79f4028730acca9ab8b00f26158ddb10&key=91febe843c08c7cc523efd827292e40e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF:-1,W-Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=010cbb9cf1a01ead38070730d38bc710&key=9cd5c0d1e54c22e035d88dd3c1dfc84c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5060/default.mpd
+
+#EXTINF:-1,SPOTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c0e1804aa1d9fd9c41c41bf0f61a5f10&key=758823e4eabb6e4c8c036d073db46b8c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#EXTINF:-1,beIN SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=39c175581e237eff9559607eb9b23c10&key=5102b12aac7756c65dcb46a101d960d3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+
+#EXTINF:-1,beIN SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1a655189ab5c49eb235308c2b1a9e710&key=3c4508af348844107f5e026a4fd6b16e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+#EXTINF:-1,bEIN SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=20c884ef8ed26b2762f8b1a78f2d1910&key=042a21bf236ca729b1e343ed6e0a6337
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#EXTINF:-1,EUROSPORT HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4db23a41babfe9afc222a58c59828310&key=d0e794e3cff564ed2c720a098eb177c7
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default.mpd
+
+#EXTINF:-1,WWE NETWORK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0cbc4d3b4fbd9af512acb2488bb42910&key=30528c4ef882954e5707cd1001d66121
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default.mpd
+
+#EXTINF:-1,GOLF CHANNEL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=705bab5e645b6d7c95588b29520f8110&key=28639bcfb5cbee8ff9ca398fcf5bfcd0
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1003/default.mpd
+
+#EXTINF:-1,Premier Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bfeb5068725617dbad6338473da6d10&key=06577ffcc4935ba24aff4c4c9dd6846d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+
+#EXTINF:-1,ASTRO CRICKET
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03c2e0af2f8159f9f0ce9b5dbc865f10&key=cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#EXTINF:-1,ASTRO CRICKET PLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1ece3ecb41699e855c6dc9a283908210&key=ba08be767e1a5e89777e68a6998a8c19
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5108/default.mpd
+
+#EXTINF:-1,ASSP PLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89c10c7ef0af145be7d6e88dec090b10&key=80558606a13a99d2c543872d8899ced0
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default.mpd
+
+#EXTINF:-1,Astro GO Live Event 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cb18945925e65d411fbb986d72531010&key=15ff74ae1064c5f2fb00d2995fa88955
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default.mpd
+
+#EXTINF:-1,Astro GO Live Event 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d580c263ffde691b4249dfcac43fd10&key=f3148d1e737dece3554b889868831659
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default.mpd
+
+#EXTINF:-1,Astro GO Live Event 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ab014de03c31a84a835583c348a5e10&key=5ed727c3f28bac59aa3e5914f5ad455c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default.mpd
+
+#EXTINF:-1,Astro GO Live Event 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=de761cd285aa2b1c1620d16ddbade010&key=f12de5f0de92c52f841705d9d6449d3a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
+
+#EXTINF:-1,HITZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c759f4bc157b00a7b1dba7873197fc10&key=96da0bbe83b8f54194e42428e1fd6632
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default.mpd
+
+#EXTINF:-1,MY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f618c12955ac5c431f5f901451c9d10&key=433fa68d6ec980675c96bb5ae2e01789
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/119/default.mpd
+
+#EXTINF:-1,LITE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e8ab350491e05128235859f127225b10&key=b59d48e5da5e34a1d17bcb6e8cc36267
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/123/default.mpd
+
+#EXTINF:-1,MIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14f020e638635a66792cc7955e4d2810&key=8e2be3777dd95fb09ce2a70cf099cf8a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/122/default.mpd
+
+#EXTINF:-1,ERA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=85294251c8aeb373689eaa0ea9587810&key=4d559fcc12052d9e7fce0f8f6592bba1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default.mpd
+
+#EXTINF:-1,SINAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7af3ec1f2db077ae6374a018cbb48510&key=9458ed76e85f1ad8aa7eefcdbd628908
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default.mpd
+
+#EXTINF:-1,MELODY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d34dc49701f9c22b9f20baabb27ad410&key=6df52c46b193522fe87420938e029759
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/132/default.mpd
+
+#EXTINF:-1,RAAGA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d9ba6f62b14a5d5706b21007bc21310&key=058790fb88613e6a71028aafa2258403
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/134/default.mpd
+
+#EXTINF:-1,CLASSIC ROCK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=74377f9dea75453994f7f6f5edb08e10&key=a064d58fa49d67614b052ab9a92a375c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/124/default.mpd
+
+#EXTINF:-1,GOLD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f92ecdf4cd1ac55bc8c788fa1958610&key=715c8401d7829c9a7c5d665922ca13f6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/125/default.mpd
+
+#EXTINF:-1,OPUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a14f9a14450a96032b106d4ee8181310&key=b0b97cca1f9e311a09d33265c85a20e8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/120/default.mpd
+
+#EXTINF:-1,GEGAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=70b6a9d1c5f5d275accf0a8c51dbf710&key=a0feca3810b9227592bd893bfb9f1f89
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default.mpd
+
+#EXTINF:-1,INDIA BEAT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b4e873bc93eff959ba232e1fa016f10&key=3e84b173e8997210fd270b7029491a9e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/127/default.mpd
+
+#EXTINF:-1,JAZZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1bbab67b1f95ae9a32db73a88c308110&key=b284563fcddeb078b5bfe0efb684ffa1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/128/default.mpd
+
+#EXTINF:-1,OSAI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=082e516398c5ea15d6b9cda572247c10&key=cb8b2f2190cd84b62e6876fcc6bf24bf
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/131/default.mpd
+
+#EXTINF:-1,BAYU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5515d4f22664e386c62f7cf2c166ab10&key=f72c380581aa12a016ea88789c679c67
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/135/default.mpd
+
+#EXTINF:-1,KENYALANG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fdd9690c43631eac67dbfb11a6d6a510&key=53bcece8d71ecbe7bac08a94927cf358
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/136/default.mpd
+
+#EXTINF:-1,NAS FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae8c20070c706333ad13230f05411c10&key=9c0832a8dbc36d2ab5892600ea6960fd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/129/default.mpd
+
+#EXTINF:-1,V FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed4dc7b6e2225c45634e9d63272a9b10&key=57d4290607a9a3a163de07388fcdf58d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/133/default.mpd
+
+#EXTINF:-1,WAI FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bde4784bc64eb326169d11c10a0b1510&key=bc9df5e162c5692669a8ec6366c9e4db
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/137/default.mpd
+
+#EXTINF:-1,TRAXX FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=74c6ae20ff7e31ee2aa1812bc7931310&key=865a25aba8134164791b29793d7b97db
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/138/default.mpd
+
+#EXTINF:-1,MINNAL FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a2428702c66220ce105d5cba2033410&key=d2011e32b524a02e43978e1a066394bd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/139/default.mpd
+
+#EXTINF:-1,AI FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99d0060f4d3333be90b0cae6addb4310&key=2f61d66cfce12bcb056571510999f3bf
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/140/default.mpd
+
+#EXTINF:-1,ASYIK FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ba01b2f73c76432e649092767f107010&key=8c198e97119e46dad9a4d693f5a82aff
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/141/default.mpd
+
+#EXTINF:-1,ZAYAN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f8366fd866e0ef521268b53446203610&key=8ac6d3ead461c5c1497ab25a8bd1f619
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/142/default.mpd
+
+#EXTINF:-1,GO XUAN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee738a67776d147e95f95df27e626b10&key=ef1e7ce3e50a78788ce1831cea8e187d
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/143/default.mpd
+
+#EXTINF:-1,ASIAN GAMES 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=42808c9d6ab43355c12d63f126caa810&key=38e1cffcaf5955c3846b80a062f9ffc0
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5130/default.mpd
+
+#EXTINF:-1,ASIAN GAMES 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d4c6bfd1fb68ab1bbbd30694b45eb110&key=3f5161655fddae70ddc01c0fa1dceb71
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5131/default.mpd
+
+#EXTINF:-1,ASIAN GAMES 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e04303608f0a271a3ff03812f4ea2e10&key=685964169bcf73800b896439dfbbb72c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5132/default.mpd
+
+#EXTINF:-1,ASIAN GAMES 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4d8657b41a06447640083edfe34e2710&key=cc6ed1e1ffc46952fedfaae2b84206b9
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5133/default.mpd
+
+#EXTINF:-1,ASIAN GAMES 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8deab38356177a014b341cd1c79b9610&key=baab9f8f7def8ef62398b2b54b877515
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5134/default.mpd
+
+#EXTINF:-1,ASIAN GAMES 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b7192c458481368dda1ecb65ec945710&key=03f1c0ae1cec374f3b7d494c7436d3fd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5135/default.mpd
+
+#EXTINF:-1,ASTRO PREMIER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2f3238142348789ed5a99b9a1bd8e010&key=438fb62e97278526686d921126343d32
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+
+#EXTINF:-1,bEIN SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34b831a974501d106f6545e9f93de010&key=c31ef8e8ac1139b985ac3673002b7014
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5085/default.mpd

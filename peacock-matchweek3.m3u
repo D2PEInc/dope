@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Goal Rush: Matchweek 3:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YXrvk0MF3vBvBPmtSyjHNw","kid":"ACKDF4RFOwa48f72JHAilQ"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/947/4d9/202308/9474d9e0-afbd-5aaa-b6d1-a5beebd39dea/peacock201362-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Sheffield United v. Man City:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"prJ55wWO73XTlU/I9R4fJg","kid":"ACKKkCJpUwqtnHc7cQ280w"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/09e/d8c/202308/09ed8c4b-a13f-5714-84f9-13c1a603f422/peacock200823-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Newcastle v. Liverpool:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5NbzxUxnuZlfpRtfGSJ4bA","kid":"ACKxs2xzqBEOowy/QE2TCg"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/c82/118/202308/c82118e5-f472-5b6f-b240-612b062b7bd6/peacock200824-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Arsenal v. Fulham:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fTwtMjbLOqzn8oPOAGk78Q","kid":"ACJkmzDlZq6pUGvGqeZe7A"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/fa6/532/202308/fa6532c4-9e2b-570e-8ee7-ca2c2d8702e2/peacock200820-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Bournemouth v. Tottenham:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8eMESe7EJtWg7uE+l4/BTA","kid":"ACJuX/dCVBWRHGKvt+RrKQ"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/740/b2b/202308/740b2b62-ac6c-53ee-ad9c-0f0cff38f9bd/peacock200816-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Man United v. Nott'm Forest:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EnruScehyUISUvjvDJxaqw","kid":"ACJaDzFpMms+vSMjpHhwzQ"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/05e/3c7/202308/05e3c716-e9ee-5dac-a2c7-48db82a67115/peacock200819-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Chelsea v. Luton Town:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LtNnd10cRLrWl4TTnPVNFw","kid":"ACLHe68MWHMbs1KEzsql/Q"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/b38/9df/202308/b389dfe1-5138-56c4-8da0-60364d893200/peacock200814-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Burnley v. Aston Villa:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6VTZRXbcy1l2yqmxX8jQ5Q","kid":"ACKFojL63p/Gb0eBMwhgdQ"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/334/ec6/202308/334ec6ea-ce89-52ee-a11c-760d3ca69552/peacock200822-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Brighton v. West Ham:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6Rsxzkz2fi1Qh902j5ywDA","kid":"ACItQPdr60MaBE+oRMMR8g"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/1f1/fcf/202308/1f1fcfee-e86e-5bbf-8f69-b21c7a145f1a/peacock201361-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Everton v. Wolves:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"corgXe49TSRKDvq3N17aCw","kid":"ACK0GtA1lo1Q0pIDjvA6Ng"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/54f/432/202308/54f432f4-34ec-5e76-bbbe-746ceeeb82d9/peacock200818-ctr/master.mpd
+
+#EXTINF:-1,tvg-id="peacock" tvg-name="peacock" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/j3hf2n1603533555.png", Brentford v. Crystal Palace:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fdlB24Gl33PS/0b6ijTLeg","kid":"ACJuMbvTG+2RnpX+N0526g"}],"type":"temporary"}
+https://g006-vod-us-cmaf-prd-ll.cdn.peacocktv.com/pub/global/FER/dec/a00/202308/deca00d3-1db6-543b-97f2-c42c3d0e6bc9/peacock200817-ctr/master.mpd

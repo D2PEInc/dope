@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF:-1,Sky Sport Calcio HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036e5d0e88dfb087f1791da6150ced9&key=0bc653d830837dceb13bd17169f0f8e2
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport Arena HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00364ee1c777f44a74e4df12f3095503&key=77dee68a39366663755beb8fa62dcc1e
+https://linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036a901e6f0381cfd1b6fcf10cc6038&key=4fbb022704c9abcbb709484a5667fd79
+https://linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportaction/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport NBA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036c4e453ae2a044f4c861ed73b560a&key=ea5626c0aa092c382ca58151b5f4b208
+https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport Tennis HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00360f4f90045f029a53a022738c2422&key=fa39fd500dc4e291801a710499634330
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport Golf HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036a02f08506f8428164d78e3ebb6de&key=8708612971e3cfa8e03698996b1a3b7f
+https://linear309-it-dash1-prd.selector.skycdn.it/016a/32768/FHD/skysportgolf/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport F1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036aca3ce896fe790ef07e89b74cae4&key=58145ec5b35e7f62555c2ed5f3ef2342
+https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport MotoGP HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036ea2e908d4cc20ef08595da9ff991&key=08e1ae9fa0ee4d9ec2b194c4908613ae
+ https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_dolby.mpd
+
+#EXTINF:-1,Sky Sport Summer HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00362452ed102000ccea64c311921dc2&key=02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_dolby.mpd
+
+#EXTINF:-1,Eurosport 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_dolby.mpd
+
+#EXTINF:-1,Eurosport 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_dolby.mpd
+
+#EXTINF:-1,Sky SPORT 251 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00368000eaecbeeafd84c05b3b8243af&key=8f84185910e18ae0ca8a45004625a000
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master_dolby.mpd
+
+#EXTINF:-1,Sky SPORT 252 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036c4797608fc64296d437bc6f8b790&key=1689af84b23f514005f9bb854da7667f
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master_dolby.mpd
+
+#EXTINF:-1,Sky SPORT 253 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00365b169a077daac5081277c3fd0c28&key=f68ab32a552e13509a8ee1c4d96204bc
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32233/FHD/skysport253/master_dolby.mpd
+
+#EXTINF:-1,Sky SPORT 254 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00369c14c20b78aadb1ec0e3c0e74979&key=e768767e2c7238d8069887bb36aed7fa
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master_dolby.mpd
+
+#EXTINF:-1,Sky SPORT 255 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036b781a22ebb0c20c16ac27d5d1448&key=f309b94acfda720bf1ed5741489f8967
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master_dolby.mpd
+
+#EXTINF:-1,Sky SPORT 256 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00366f263859fc1cc82d2c4da6a66ef6&key=754ae922d113c54349002cd9a88694a4
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31912/FHD/skysport256/master_dolby.mpd
+
+#EXTINF:-1,Sky SPORT 257 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036faeace9872d3ceeb8b1b63f0baa3&key=dbd41ee944243307d39b7b27f16615a8
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master_dolby.mpd

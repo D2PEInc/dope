@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Optus Sport 1" tvg-name="Optus Sport 1" tvg-logo="", Optus Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K12DUdz1/9F3OzXxOCcdaw","kid":"r2tOrUIbTFaccthJVOXpEA"},{"kty":"oct","k":"PhO0Yn7tOIXLWIGP3DnWbw","kid":"A7R8jlvfQcu77ym+ahjeng"},{"kty":"oct","k":"HJNycWYFhmhj8K8mZCrPYw","kid":"rvAY42DgSKmFlXxYlNvvIg"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 2" tvg-name="Optus Sport 2" tvg-logo="", Optus Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"L8hzEau/ll2EscGp6wNDfg","kid":"0dersBHQSFqzA4RE8g6T/w"},{"kty":"oct","k":"1PH7ItsHVPp3vCd5wo/UWQ","kid":"U1rvtuwIQlK2AUv9jfGa8g"},{"kty":"oct","k":"qFmqB6Gjp162UlGVykQUiA","kid":"EnsmQgtTQ3GaMX3Gq8MJng"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport2/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 3" tvg-name="Optus Sport 3" tvg-logo="", Optus Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cV8iDTap/ECClyu3eg5snA","kid":"28TOiE9KRtSvnvrN98me3g"},{"kty":"oct","k":"AFNbbHFkjwod41BqN0g/Ow","kid":"4LqZf1UhRP+Pu9C+lRmSHw"},{"kty":"oct","k":"MUZpXS7tddSx6ABa3rLrxg","kid":"6gYhEY7NRv+YLKSvjCqYNw"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport3/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 4" tvg-name="Optus Sport 4" tvg-logo="", Optus Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KuYQ8HTvpvNqsQZyFiImqw","kid":"jEBwODfcQyyn7wzaBe7PiQ"},{"kty":"oct","k":"AuIuDiKHD7Jh/XgXWGjIWA","kid":"O/ETzRhUSSmK7hr+jLQJ/Q"},{"kty":"oct","k":"ArObk73rQTKf4y2arn0y1Q","kid":"+/cKb8C8StuL93dADuEkFQ"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport4/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 5" tvg-name="Optus Sport 5" tvg-logo="", Optus Sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+Jkx3cxhfnM4SFf7S/H0jQ","kid":"8ngsxh6fR3+gKZUFw8EfnQ"},{"kty":"oct","k":"7TZ/9st5fZyQL0axTljLkg","kid":"dTDMblgpSwCwwanazMhx/w"},{"kty":"oct","k":"s7dM4qT6HdgTW1Zsk5/Bnw","kid":"nsqpxeFJQdiSgeky3LWpGg"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport5/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 6" tvg-name="Optus Sport 6" tvg-logo="", Optus Sport 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fyx8c0V7BFTFvZnpL5c2TQ","kid":"ppO8UgfOQkKKkgSLcfYd3w"},{"kty":"oct","k":"Dn9nIUNf2zYNHY9W/xZFzg","kid":"4y/EYDDRSI+8sSKQEY0dUA"},{"kty":"oct","k":"rWAJkJXa630Rge2yLEr1kA","kid":"+VswVhDFTvCiquBkdFbEdw"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport6/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 7" tvg-name="Optus Sport 7" tvg-logo="", Optus Sport 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yH3ApZudFVJSri3ANQJoGw","kid":"/rX6A9beQQ6/CbNid25cEA"},{"kty":"oct","k":"8WX08ugXcsj69/ld8Pv+8A","kid":"t2WZOfu0QZSsuCuv9zr4/A"},{"kty":"oct","k":"VsBIg7297g058rtn7jXBHA","kid":"nxvUv/58QwyDjlZzcd5+7w"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport7/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 8" tvg-name="Optus Sport 8" tvg-logo="", Optus Sport 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JqLJuvctr6EuopjPpMamDA","kid":"mOv3+DoLReKxgvRBqdhoiA"},{"kty":"oct","k":"DNtmNyNUGyJcYeGyWzYZLQ","kid":"ZfOuE7yTS2e9ydbygzIVdg"},{"kty":"oct","k":"yuy2EI16Lv0m52/rY1cw2w","kid":"HHRSFUKiRVqfYBV/EUurTQ"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport8/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 9" tvg-name="Optus Sport 9" tvg-logo="", Optus Sport 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rxJ0hP95qS7nNU9cjFvLNg","kid":"FCHBYeikQES8AH8XJbYtPA"},{"kty":"oct","k":"IrfcbN36Xsqm0N9NVfcRag","kid":"1J5X70DYTQe72h/YQTYBKw"},{"kty":"oct","k":"46AyaBaDxNnLohQKaUMkzg","kid":"8HxizlAgRW2s0uWSKNF25Q"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport9/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 10" tvg-name="Optus Sport 10" tvg-logo="", Optus Sport 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4gQZzLJ6lPHtU3XuCQn8kA","kid":"gkshG0MGRruB0MDJa5Izzw"},{"kty":"oct","k":"eVvfmSSWgQ4GM78oARDsww","kid":"XLtUv6buQD+4ZRYFSDQupA"},{"kty":"oct","k":"eBtxTxUDxbfGDz/jwZIldw","kid":"5w+hnaBwQrKluvfVdjOGYQ"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport10/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 11" tvg-name="Optus Sport 11" tvg-logo="", Optus Sport 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sn5NjqiLj0sH3hPBbexmEg","kid":"UHnXZsIXSQqtWiFdG05RSA"},{"kty":"oct","k":"opBPXt/fKvU/7CDXOJwbgw","kid":"dPov6Q9QT0yUkSfX0fDfMw"},{"kty":"oct","k":"GdLH2hMS9UfeF02/4vALaQ","kid":"949+MgAeTuqDZdfCJZWgSA"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport11/xbtss/drm/avc/dash/scte/manifest.mpd
+
+#EXTINF:-1 tvg-id="Optus Sport 12" tvg-name="Optus Sport 12" tvg-logo="", Optus Sport 12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EoMQ4YX8n2E6Ci7lY3OEbw","kid":"uIWYGtN3Q9KvLfi5BNhj9Q"},{"kty":"oct","k":"5jewKdnYKI8v0nIhmRTGCg","kid":"dE1FxtvmS0ikyTrZa4nc8A"},{"kty":"oct","k":"8jdzlqtwLAZAgq2VVQQ+XA","kid":"BUM82vLgSf6cphZfjUxe3Q"}],"type":"temporary"}
+https://linear-a-bla.epyc.optusvideo.tv/v7/OptusSport12/xbtss/drm/avc/dash/scte/manifest.mpd

@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,bt sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9826baaee43a4a4b8529b90ed712c670&key=92b748b920608e82d86e2224b2b4fa9f
+https://t1-live-euwe1.us.qw.streams.sport.bt.com/bts1-wvpr/bts1-wvpr.isml/bts1-wvpr.mpd
+
+#EXTINF:-1,bt sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c10c5f46e8b94063879e217f0fe7b15d&key=f2d2ed479dd48bcc1b873d2480f2731d
+https://t1-live-euwe1.us.qw.streams.sport.bt.com/bts2-wvpr/bts2-wvpr.isml/bts2-wvpr.mpd
+
+#EXTINF:-1,bt sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=79bf10bd2aa245aaa5addf10eebb8c11&key=6bff3d8cb21e6ea737ba26fe9c684f1f
+https://t1-live-euwe1.us.qw.streams.sport.bt.com/bts3-wvpr/bts3-wvpr.isml/bts3-wvpr.mpd
+
+#EXTINF:-1,bt sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=77b867ef7b6c45798cd40e964856306b&key=9376f284c2103c8cd3028b93790f7dfd
+https://t1-live-euwe2.us.qw.streams.sport.bt.com/espn-wvpr/espn-wvpr.isml/espn-wvpr.mpd
+
+#EXTINF:-1,bt sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=181f564a1da945c9a6f23a8dbbf53bfb&key=31076b46e24cf9302690837636a5305c
+https://t1-live-euwe2.us.qw.streams.sport.bt.com/btse1-wvpr/btse1-wvpr.isml/btse1-wvpr.mpd
+
+#EXTINF:-1,bt sport 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8e4b6782b10543968e67a3b0cf3ab243&key=704a7d100657190cc6bfe3d6236473f8
+https://t1-live-euwe2.us.qw.streams.sport.bt.com/btse2-wvpr/btse2-wvpr.isml/btse2-wvpr.mpd
+
+#EXTINF:-1,bt sport 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0701c71c1244680b066ba00c45f7a85&key=9dc2a5c3caf93a2a98eb6b3078258a6c
+https://t1-live-euwe2.us.qw.streams.sport.bt.com/btse3-wvpr/btse3-wvpr.isml/btse3-wvpr.mpd
+
+#EXTINF:-1,bt sport 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac00f47ddf044fe59a4507baebe5f69d&key=604feec1b5ee00c8625c6191d594b562
+https://t1-live-euwe2.us.qw.streams.sport.bt.com/btse4-wvpr/btse4-wvpr.isml/btse4-wvpr.mpd
+
+#EXTINF:-1,bt sport 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=439ce0de3adc42a1afa9227d0fecb1f8&key=f670dfe2c58e694c4ce1b5aa2dfced08
+https://t1-live-euwe2.us.qw.streams.sport.bt.com/btse5-wvpr/btse5-wvpr.isml/btse6-wvpr.mpd
+
+#EXTINF:-1,bt sport 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c98260a9e5234119b756f0209348c973&key=e3affa32b369d49240184101b0853691
+https://t1-live-euwe2.us.qw.streams.sport.bt.com/btse6-wvpr/btse6-wvpr.isml/btse6-wvpr.mpd
+
+#EXTINF:-1,bt sport ultimate (event only)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aeca91c10d8646e9b2a70296551e4558&key=4c1a46361a7f969e98d289eda6eca8c5
+https://t1live-im-55eb4d00-btsu-euwe1.prd.mp.ll.streams.sport.bt.com/out/v1/fbb27f0876f148e1bd75ade7e4db4c83/btsu-b_hdrhevc_dash_wv_index.mpd
